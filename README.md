@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OzzB
-- 👀 I’m interested in Dart, Flutter, Power BI, SQL Server
+- 👀 I’m interested in Asp.Net Core, Dart, Flutter, Power BI, SQL Server
 - 🌱 I’m currently learning Flutter and Dart
 - 📫 How to reach me ...leave me a message
 
